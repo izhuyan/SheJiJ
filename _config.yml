@@ -79,37 +79,3 @@ deploy:
 
 
 
-# Generator json content
-jsonContent:
-  meta: false
-  keywords: false
-  pages:
-    title: true
-    slug: false
-    date: false
-    updated: false
-    comments: false
-    path: false
-    link: false
-    permalink: true
-    excerpt: false
-    keywords: false
-    text: true
-    raw: false
-    content: false
-  posts:
-    title: true
-    slug: false
-    date: false
-    updated: false
-    comments: false
-    path: false
-    link: false
-    permalink: true
-    excerpt: false
-    keywords: false
-    text: true
-    raw: false
-    content: false
-    categories: false
-    tags: false
