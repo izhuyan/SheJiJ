@@ -105,3 +105,11 @@ jsonContent:
     content: false
     categories: false
     tags: false
+
+
+
+# Less
+less:
+  compress: true
+  paths: 
+    - source
